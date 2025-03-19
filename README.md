@@ -3,8 +3,8 @@
 
 ### Career
 
-- Samsung Software Academy for Youth(SSAFY)
-- DataCommand
+- Samsung Software Academy for Youth(SSAFY) 5th
+- DataCommand (2022.01 ~ )
 
 
 ### Tech Stack
