@@ -8,7 +8,13 @@ Backend developer building **disaster recovery (DR), backup and migration** for 
 - **DataCommand** — Researcher (2022.01 ~ ) · OpenStack/Kubernetes DR, backup & migration with Go, gRPC, Ceph
 - **Samsung Software Academy for Youth (SSAFY) 5th** (2021.01 ~ 2021.12)
 
-### Projects
+### Work
+
+| Project | Description | Stack |
+|---|---|---|
+| [dr-platform-showcase](https://github.com/Yongwon-Jang/dr-platform-showcase) | OpenStack·Kubernetes 재해복구(DR)·마이그레이션 복제 오케스트레이션 (회사 업무 · 문서) | Go, gRPC, OpenStack, Ceph, Claude Code |
+
+### Projects (SSAFY)
 
 | Project | Description | Stack |
 |---|---|---|
